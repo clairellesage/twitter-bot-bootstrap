@@ -1,5 +1,5 @@
 {
-  "name": "twitter-bot",
+  "name": "urbot",
   "version": "1.0.0",
   "description": "twitter bot bootstrap",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect"
   },
-  "author": "",
+  "author": "Claire Lesage",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^4.0.0",
@@ -21,5 +21,13 @@
     "unirest": "^0.5.1",
     "snyk": "^1.25.1"
   },
-  "snyk": true
+  "snyk": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairellesage/twitter-bot-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clairellesage/twitter-bot-bootstrap/issues"
+  },
+  "homepage": "https://github.com/clairellesage/twitter-bot-bootstrap#readme"
 }
