@@ -1,39 +1,35 @@
 module.exports = {
   queryString: [
-    'ottawa', 
-    'guelph',
-    'wakefield spring', 
     'city planning', 
     'urban development', 
-    'engagement', 
-    'city', 
-    'cities', 
+    'civic engagement',   
     'smart cities', 
     'site application', 
     'Innovation Guelph',
     'civic accelerator',
     'civic engagement',
-    'data-driven',
     'city building',
     'public participation',
     'city officials',
-    'zoning',
-    'human-centered',
+    'human-centered design',
     'urban planning',
     'making cities feel',
     'civic tech',
     'public consultation',
     'land use',
-    'smart growth',
     'traffic zone',
-    'intensification',
-    'mixed use',
+    'mixed use building',
     'zoning by-law',
-    'zone provision'
+    'zone provision',
+    'urban democracy'
 
   ],
   queryStringSubQuery: [
-    ''
+    ' ottawa', 
+    ' guelph',
+    ' mississauga',
+    ' toronto',
+    ' london'
   ],
   blockedStrings: [
     'sex',
