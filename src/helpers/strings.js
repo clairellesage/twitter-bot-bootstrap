@@ -1,5 +1,8 @@
 module.exports = {
   queryString: [
+    'Toronto '
+  ],
+  queryStringSubQuery: [
     'city planning', 
     'urban development', 
     'civic engagement',   
@@ -22,14 +25,6 @@ module.exports = {
     'zoning by-law',
     'zone provision',
     'urban democracy'
-
-  ],
-  queryStringSubQuery: [
-    ' ottawa', 
-    ' guelph',
-    ' mississauga',
-    ' toronto',
-    ' london'
   ],
   blockedStrings: [
     'sex',
