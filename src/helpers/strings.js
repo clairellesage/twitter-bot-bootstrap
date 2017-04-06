@@ -3,7 +3,7 @@ module.exports = {
     'Toronto',
     'Guelph',
     'Barrie',
-    'London Ontario'
+    'London Ontario',
     'Ottawa',
     'Shenzhen'
   ],
@@ -16,7 +16,6 @@ module.exports = {
     ' civic accelerator',
     ' civic engagement',
     ' city building',
-    ' public participation',
     ' city officials',
     ' human-centered design',
     ' urban planning',
@@ -29,7 +28,7 @@ module.exports = {
     ' zoning by-law',
     ' zone provision',
     ' urban democracy',
-    ' city building'
+    ' city building',
     ' public participation',
     ' '
   ],
