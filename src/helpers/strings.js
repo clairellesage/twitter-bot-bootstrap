@@ -8,6 +8,7 @@ module.exports = {
     'Shenzhen'
   ],
   queryStringSubQuery: [
+    ' ',
     ' city planning', 
     ' urban development', 
     ' civic engagement',   
@@ -29,8 +30,7 @@ module.exports = {
     ' zone provision',
     ' urban democracy',
     ' city building',
-    ' public participation',
-    ' '
+    ' public participation'
   ],
   blockedStrings: [
     'sex',
