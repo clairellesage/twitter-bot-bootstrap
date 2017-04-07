@@ -8,7 +8,7 @@ module.exports = {
     'Shenzhen'
   ],
   queryStringSubQuery: [
-    ' ',
+    '',
     ' city planning', 
     ' urban development', 
     ' civic engagement',   
