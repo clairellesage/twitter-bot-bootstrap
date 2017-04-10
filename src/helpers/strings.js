@@ -42,8 +42,17 @@ module.exports = {
     'asshole',
     'creampie',
     'fucked',
+    'fucking',
     'penis',
-    'vagina'
+    'vagina',
+    'TSN',
+    'swingers',
+    'BDSM',
+    'thot',
+    'Ottawa Senators',
+    'pornstars',
+    'baseball',
+    
   ],
   resultType: [
     'mixed',
