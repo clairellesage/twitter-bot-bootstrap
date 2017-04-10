@@ -5,10 +5,10 @@ module.exports = {
     'Barrie',
     'London Ontario',
     'Ottawa',
-    'Shenzhen'
+    'Shenzhen',
+    'Ontario'
   ],
   queryStringSubQuery: [
-    '',
     ' city planning', 
     ' urban development', 
     ' civic engagement',   
@@ -30,11 +30,20 @@ module.exports = {
     ' zone provision',
     ' urban democracy',
     ' city building',
-    ' public participation'
+    ' public participation',
+    '',
   ],
   blockedStrings: [
     'sex',
-    'porn'
+    'porn',
+    'fuck',
+    'shit',
+    'ass',
+    'asshole',
+    'creampie',
+    'fucked',
+    'penis',
+    'vagina'
   ],
   resultType: [
     'mixed',
